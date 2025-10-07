@@ -1,0 +1,84 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* florain_custom
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-07 18:32+0000\n"
+"PO-Revision-Date: 2025-10-07 18:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__accept_newsletter
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__accept_newsletter
+msgid "Accepte Newsletter"
+msgstr "Accepte Newsletter"
+
+#. module: florain_custom
+#: model_terms:ir.ui.view,arch_db:florain_custom.main_members_view
+msgid "Account Cyclos"
+msgstr "Compte Cyclos"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__changeeuros
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__changeeuros
+msgid "Change euros mensuel"
+msgstr "Change euros mensuel"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__orga_choice
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__orga_choice
+msgid "Choix de l'association"
+msgstr "Choix de l'association"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__account_cyclos
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__account_cyclos
+msgid "Compte Cyclos"
+msgstr "Compte Cyclos"
+
+#. module: florain_custom
+#: model:ir.model,name:florain_custom.model_res_partner
+msgid "Contact"
+msgstr "Contact"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__contact_email
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__contact_email
+msgid "Email Cyclos"
+msgstr "Email Cyclos"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__commercial_name
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__commercial_name
+msgid "Nom commercial"
+msgstr "Nom commercial"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__prvlt_sepa
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__prvlt_sepa
+msgid "Prélèvement SEPA"
+msgstr "Prélèvement SEPA"
+
+#. module: florain_custom
+#: model_terms:ir.ui.view,arch_db:florain_custom.main_members_view
+msgid "Subcription number"
+msgstr "Numéro d'adhésion"
+
+#. module: florain_custom
+#: model_terms:ir.ui.view,arch_db:florain_custom.main_members_view
+msgid "Subscription status"
+msgstr "Etat de l'adhésion"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__is_organization
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__is_organization
+msgid "est une association"
+msgstr "Est une association"

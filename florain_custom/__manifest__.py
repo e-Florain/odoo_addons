@@ -3,10 +3,10 @@
 
 {
     'name': 'Florain customization',
-    'version': '16.0.1.0.0',
+    'version': '18.0.1.0.0',
     'category': '',
     'description': "Florain : custom fields and views",
-    'depends': ['base','lcc_members'],
+    'depends': ['base'],
     'data': [
         'views/res_partner_views.xml'
     ],
