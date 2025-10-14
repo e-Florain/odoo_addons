@@ -6,7 +6,7 @@
     'version': '18.0.1.0.0',
     'category': '',
     'description': "Florain : custom fields and views",
-    'depends': ['base'],
+    'depends': ['base', 'membership'],
     'data': [
         'views/res_partner_views.xml'
     ],

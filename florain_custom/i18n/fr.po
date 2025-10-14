@@ -82,3 +82,15 @@ msgstr "Etat de l'adhésion"
 #: model:ir.model.fields,field_description:florain_custom.field_res_users__is_organization
 msgid "est une association"
 msgstr "Est une association"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__detailed_activity
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__detailed_activity
+msgid "Detailed Activity"
+msgstr "Activité Détaillée"
+
+#. module: florain_custom
+#: model:ir.model.fields,field_description:florain_custom.field_res_partner__currency_exchange_office
+#: model:ir.model.fields,field_description:florain_custom.field_res_users__currency_exchange_office
+msgid "Currency Exchange Office"
+msgstr "Comptoir de Change

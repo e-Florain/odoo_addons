@@ -25,3 +25,5 @@ class ResPartner(models.Model):
         translate=False, 
         readonly=False
     )
+    detailed_activity = fields.Text(string="Detailed Activity")
+    currency_exchange_office = fields.Boolean(string="Currency Exchange Office")
